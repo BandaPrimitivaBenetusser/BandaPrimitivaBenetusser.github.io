@@ -1,0 +1,17 @@
+{
+  "name": "bandaprimitivabenetusser.github.io",
+  "version": "0.0.0",
+  "description": "Banda Primitiva of Benetusser portfolio",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carles Sanz Mateu",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-sass": "^3.1.0"
+  },
+  "dependencies": {
+    "gulp-install": "^1.1.0"
+  }
+}
